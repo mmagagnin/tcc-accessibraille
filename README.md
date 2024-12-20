@@ -40,8 +40,3 @@ O relatório do projeto está sendo redigido, mas o código e o hardware ainda p
 - **Fontes de Alimentação:** Fonte chaveada 12V/5A.
 - **Software:** Desenvolvimento em C++ para controle do Arduino, interface em Python (biblioteca TKInter)
 
----
-
-## 👩‍💻 Sobre o Autor
-
-**Marina Magagnin** é estudante de Engenharia de Computação na PUC-Rio. Este projeto é parte do seu Trabalho de Conclusão de Curso e reflete sua paixão por soluções tecnológicas acessíveis e de impacto social.
